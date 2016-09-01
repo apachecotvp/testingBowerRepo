@@ -1,0 +1,19 @@
+{
+  "name": "testingBowerRepo",
+  "version": "0.0.1",
+  "homepage": "https://github.com/apachecotvp/testingBowerRepo",
+  "authors": [
+    "Antonio Pacheco <apacheco@tvpage.com>"
+  ],
+  "description": "This is a testing Bower Repo",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
